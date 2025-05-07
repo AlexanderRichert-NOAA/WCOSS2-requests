@@ -8,4 +8,4 @@ assignees: ["Hang-Lei-NOAA", "WeiWei-NCO", "AlexanderRichert-NOAA"]
 ---
 
 ## Description
-<!-- Describe the bug, concern, enhancement, or other feedback -->
+<!-- Describe the bug, concern, enhancement, or other feedback regarding the test installation of spack-stack on WCOSS2 -->
